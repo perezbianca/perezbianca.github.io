@@ -2,15 +2,15 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 58,
+    "uniqCompNum": 61,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#000000",
-        "secondaryColor": "#bfcecb",
+        "primaryColor": "#a38f84",
+        "secondaryColor": "#7c706b",
         "successColor": "#90a878",
         "infoColor": "#475577",
         "warningColor": "#ffffff",
@@ -86,7 +86,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#a38f84!important"
             }
           },
           "_name": "ext.menu",
@@ -634,7 +634,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -693,13 +693,14 @@
           "text": "Copyright (c) 2016 Mobirise."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
             "images": [
               {
                 "tags": "Awesome",
@@ -778,12 +779,12 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery1-1i",
+          "_anchor": "gallery2-1o",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -845,7 +846,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
