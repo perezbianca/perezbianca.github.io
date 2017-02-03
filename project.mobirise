@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "discussit.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 58,
     "versionPublish": "3.11.1",
@@ -9,7 +9,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#a38f84",
+        "primaryColor": "#000000",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#475577",
@@ -86,7 +86,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#a38f84!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -460,7 +460,7 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "H4": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "STRONG": {
               "color": "#ffffff",
@@ -470,7 +470,10 @@
               "color": "#ffffff"
             },
             ".list-group-text": {
-              "color": "#ffffff"
+              "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -512,7 +515,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "text2": "786 - 521 -0572",
@@ -524,7 +527,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "text3": "4358 SW 164 Ct 33185 &nbsp;Miami, FL",
@@ -536,10 +539,10 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">b</a>perez@miamiartsstudio.com",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-primary\">b</a>perez@miamiartsstudio.com",
           "title1": "Categories",
           "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design and Fine Arts</a></li><li><a class=\"text-primary\" href=\"#\">Future Opportunities</a></li><li><a class=\"text-primary\" href=\"#\">Career Placement</a></li><li><a class=\"text-primary\" href=\"#\">Education</a></li>",
           "text6": "<br><br><br>",
@@ -631,7 +634,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#a38f84!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -842,7 +845,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#a38f84!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
