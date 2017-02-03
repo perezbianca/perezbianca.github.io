@@ -9,8 +9,8 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#a38f84",
-        "secondaryColor": "#7c706b",
+        "primaryColor": "#000000",
+        "secondaryColor": "#000000",
         "successColor": "#90a878",
         "infoColor": "#475577",
         "warningColor": "#ffffff",
@@ -86,7 +86,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#a38f84!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -574,7 +574,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me!</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me!</a>"
         }
       ]
     },
