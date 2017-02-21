@@ -641,7 +641,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
+            "bgColor": "#a38f84",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -696,9 +696,9 @@
               "color": "#ffffff"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">b</a>perez@miamiartsstudio.com",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">b</a>perez@miamiartsstudio.com",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design and Fine Arts</a></li><li><a class=\"text-primary\" href=\"#\">Future Opportunities</a></li><li><a class=\"text-primary\" href=\"#\">Career Placement</a></li><li><a class=\"text-primary\" href=\"#\">Education</a></li>",
+          "text5": "<li><a class=\"text-warning\" href=\"#\">Business</a></li><li><a class=\"text-warning\" href=\"#\">Design and Fine Arts</a></li><li><a class=\"text-warning\" href=\"#\">Future Opportunities</a></li><li><a class=\"text-warning\" href=\"#\">Career Placement</a></li><li><a class=\"text-warning\" href=\"#\">Education</a></li>",
           "text6": "<br><br><br>",
           "form": {
             "title": "MESSAGE",
