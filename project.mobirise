@@ -107,12 +107,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-83x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-170x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -121,8 +122,7 @@
               "family": "socicon",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#ffffff",
-              "active": true
+              "color": "#ffffff"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
