@@ -545,6 +545,10 @@ h6,
   text-align: right;
   color: #fff;
 }
+#social-buttons4-13 .mbr-section-title,
+#social-buttons4-13 .btn-social {
+  color: #fff;
+}
 #contacts5-q p,
 #contacts5-q .list-group-text,
 #contacts5-q .form-control-label {
