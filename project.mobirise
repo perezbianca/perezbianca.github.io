@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
@@ -369,43 +369,11 @@
           "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
-          "_inherit": "contacts3",
-          "_styles": {
-            "p, .list-group-text, .form-control-label": {
-              "color": "#000"
-            },
-            "strong, h4": {
-              "color": "#7e9b9f"
-            },
-            "form .form-control": {
-              "border-color": "rgba(0, 0, 0, 0.2)",
-              "color": "#565656"
-            },
-            ".mbr-footer-content li": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
-            },
-            ".mbr-company .list-group-text::after": {
-              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
-            },
-            "H4": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            ".list-group-text": {
-              "color": "#ffffff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts5",
-          "_anchor": "contacts5-q",
+          "_name": "contacts1",
+          "_anchor": "contacts1-1n",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -421,85 +389,23 @@
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
-              "class": "card-img-top",
-              "width": 265,
+              "width": 128,
               "active": true
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
               "link": "",
               "size": 0
             }
           },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts5",
-              "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
+          "text1": "<strong>Address</strong><br>4358 SW 164 Ct 33185  Miami, FL<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: bperez@miamiartsstudio.com<br>\nPhone:786 - 521 -0572<br><br>",
+          "text3": "<strong>Links</strong><br>https://www.youtube.com/channel/UCu9yu-j0gjIjmJPcih78dSg<br>",
+          "_styles": {
+            "STRONG": {
               "color": "#ffffff"
             }
-          },
-          "text2": "786 - 521 -0572",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts5",
-              "linkInNewWindow": false,
-              "name": "map-pin",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "text3": "4358 SW 164 Ct 33185 &nbsp;Miami, FL",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts5",
-              "linkInNewWindow": false,
-              "name": "envelope",
-              "family": "et-line",
-              "active": true,
-              "size": 0,
-              "color": "#ffffff"
-            }
-          },
-          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">b</a>perez@miamiartsstudio.com",
-          "title1": "Categories",
-          "text5": "<li><a class=\"text-warning\" href=\"#\">Business</a></li><li><a class=\"text-warning\" href=\"#\">Design and Fine Arts</a></li><li><a class=\"text-warning\" href=\"#\">Future Opportunities</a></li><li><a class=\"text-warning\" href=\"#\">Career Placement</a></li><li><a class=\"text-warning\" href=\"#\">Education</a></li>",
-          "text6": "<br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "bperez@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me!</a>"
+          }
         }
       ]
     },

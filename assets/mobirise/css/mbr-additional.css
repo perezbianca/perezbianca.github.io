@@ -501,36 +501,7 @@ h6,
   text-align: right;
   color: #fff;
 }
-#contacts5-q p,
-#contacts5-q .list-group-text,
-#contacts5-q .form-control-label {
-  color: #000;
-}
-#contacts5-q strong,
-#contacts5-q h4 {
-  color: #7e9b9f;
-}
-#contacts5-q form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-q .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-q .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
-#contacts5-q H4 {
-  color: #ffffff;
-}
-#contacts5-q STRONG {
-  color: #ffffff;
-  text-align: left;
-}
-#contacts5-q P {
-  color: #ffffff;
-}
-#contacts5-q .list-group-text {
+#contacts1-1n STRONG {
   color: #ffffff;
 }
 #ext_menu-e .hide-buttons .nav-btn {
