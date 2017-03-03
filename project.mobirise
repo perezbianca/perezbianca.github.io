@@ -10,7 +10,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#7c706b",
-        "secondaryColor": "#7c706b",
+        "secondaryColor": "#ffffff",
         "successColor": "#90a878",
         "infoColor": "#475577",
         "warningColor": "#ffffff",
@@ -446,13 +446,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#8c7568"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#9c877b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#a38f84"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -602,13 +602,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#8c7568"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#9c877b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#a38f84"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -701,7 +701,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a38f84",
+            "bgColor": "#7c706b",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
