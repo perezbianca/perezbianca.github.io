@@ -107,7 +107,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-170x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-102x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -373,6 +373,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts1-1n",
           "_params": {
             "paddingTop": 3,
@@ -388,24 +393,26 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo2-128x160.jpg",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 0
             }
           },
           "text1": "<strong>Address</strong><br>4358 SW 164 Ct 33185  Miami, FL<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: bperez@miamiartsstudio.com<br>\nPhone:786 - 521 -0572<br><br>",
-          "text3": "<strong>Links</strong><br>https://www.youtube.com/channel/UCu9yu-j0gjIjmJPcih78dSg<br>",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text3": "<strong>Links</strong><br>https://www.youtube.com/channel/UCu9yu-j0gjIjmJPcih78dSg<br>"
         }
       ]
     },
