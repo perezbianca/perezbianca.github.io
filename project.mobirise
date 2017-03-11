@@ -752,7 +752,7 @@
           "_name": "features2",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#7c706b"
+              "background-color": "#a38f84"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "text-align": "left",
@@ -798,13 +798,13 @@
           },
           "_anchor": "features2-1k",
           "_params": {
-            "columnsColor": "#7c706b",
+            "columnsColor": "#a38f84",
             "paddingTop": "0",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
+            "bgColor": "#a38f84",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
