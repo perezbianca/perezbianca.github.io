@@ -492,12 +492,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429051781835-9f2c0a9df6e4-192x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-102x128-copy-102x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -506,8 +507,7 @@
               "family": "socicon",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#4c6972",
-              "active": true
+              "color": "#4c6972"
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -648,7 +648,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-202x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-102x128-copy-102x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
