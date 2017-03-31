@@ -2,7 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 
@@ -497,6 +496,15 @@ h6,
 #social-buttons4-13 .btn-social {
   color: #fff;
 }
+#social-buttons4-13 .mbr-section-title SPAN {
+  font-size: 46px;
+}
+#msg-box2-1o .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-1o .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #content8-s .mbr-section-title,
 #content8-s p {
   text-align: right;
@@ -573,7 +581,6 @@ h6,
 
 
 
-
 #ext_menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -641,9 +648,6 @@ h6,
 }
 #msg-box5-1d P {
   color: #ffffff;
-  text-align: left;
-  font-size: 30px;
-  font-family: 'Open Sans Condensed', sans-serif;
 }
 #features2-1k .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #a38f84;
@@ -684,130 +688,4 @@ h6,
   font-family: 'Raleway', sans-serif;
   text-align: left;
   color: #efefef;
-}
-#ext_menu-1o .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-1o .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-1o .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-1o .close-icon::before,
-#ext_menu-1o .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-1o .link,
-#ext_menu-1o .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-1o .link {
-  font-size: 0.75rem;
-}
-#ext_menu-1o .dropdown-item,
-#ext_menu-1o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-1o .link:hover,
-#ext_menu-1o .dropdown-item:hover,
-#ext_menu-1o .link:focus,
-#ext_menu-1o .dropdown-item:focus {
-  color: #7c706b;
-}
-#ext_menu-1o .link[aria-expanded="true"],
-#ext_menu-1o .dropdown-menu {
-  background: #8c7568;
-}
-#ext_menu-1o .nav-dropdown-sm .link:focus,
-#ext_menu-1o .nav-dropdown-sm .link:hover,
-#ext_menu-1o .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-1o .nav-dropdown-sm .dropdown-item:hover {
-  background: #9c877b!important;
-}
-#ext_menu-1o .navbar,
-#ext_menu-1o .nav-dropdown-sm,
-#ext_menu-1o .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-1o .nav-dropdown-sm .dropdown-menu {
-  background: #a38f84;
-}
-#ext_menu-1o .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-1o .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-1o .bg-color.transparent.opened .link:hover,
-#ext_menu-1o .bg-color.transparent.opened .link:focus {
-  color: #7c706b;
-}
-#ext_menu-1o .link[aria-expanded="true"],
-#ext_menu-1o .dropdown-item[aria-expanded="true"] {
-  color: #7c706b!important;
-}
-#msg-box8-1s .mbr-section-title,
-#msg-box8-1s p {
-  color: #fff;
-}
-#ext_menu-1t .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-1t .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-1t .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-1t .close-icon::before,
-#ext_menu-1t .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-1t .link,
-#ext_menu-1t .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-1t .link {
-  font-size: 0.75rem;
-}
-#ext_menu-1t .dropdown-item,
-#ext_menu-1t .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-1t .link:hover,
-#ext_menu-1t .dropdown-item:hover,
-#ext_menu-1t .link:focus,
-#ext_menu-1t .dropdown-item:focus {
-  color: #7c706b;
-}
-#ext_menu-1t .link[aria-expanded="true"],
-#ext_menu-1t .dropdown-menu {
-  background: #8c7568;
-}
-#ext_menu-1t .nav-dropdown-sm .link:focus,
-#ext_menu-1t .nav-dropdown-sm .link:hover,
-#ext_menu-1t .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-1t .nav-dropdown-sm .dropdown-item:hover {
-  background: #9c877b!important;
-}
-#ext_menu-1t .navbar,
-#ext_menu-1t .nav-dropdown-sm,
-#ext_menu-1t .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-1t .nav-dropdown-sm .dropdown-menu {
-  background: #a38f84;
-}
-#ext_menu-1t .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-1t .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-1t .bg-color.transparent.opened .link:hover,
-#ext_menu-1t .bg-color.transparent.opened .link:focus {
-  color: #7c706b;
-}
-#ext_menu-1t .link[aria-expanded="true"],
-#ext_menu-1t .dropdown-item[aria-expanded="true"] {
-  color: #7c706b!important;
 }
