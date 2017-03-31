@@ -643,14 +643,18 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "I": {
+              "font-size": "18px"
             }
           },
           "_anchor": "msg-box5-1d",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "7",
-            "paddingBottom": "7",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -687,7 +691,7 @@
             }
           },
           "title": "Biography",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "<i>I’m Bianca Perez, a student at Miami Arts Studio and I attend the Technology Production magnet. I never predicted using my visual art skills digitally. This experience gave more knowledge with technology and gave me more career opportunities for the future.<br>I’m working more with digital art now in the present, gaining more tools to my disposal. My passion lies more with the construction and placement of shows and plays. I think experiencing more of a digital side of the production will help gain experience for both sides. <br></i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
